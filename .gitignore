@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*
+!.env.example
+serviceAccount*.json
+*.log
+.firebase/
+dist/
+lib/
