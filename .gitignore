@@ -6,4 +6,4 @@ serviceAccount*.json
 *.log
 .firebase/
 dist/
-lib/
+/functions/lib/
